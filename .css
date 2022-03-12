@@ -1,0 +1,49 @@
+#header{
+  background: black;
+  position: fixed;
+    top:0;
+    right:0;
+}
+#header-img{
+  width: 40px;
+  display: float;
+  position: fixed;
+  left:0;
+  top:0;
+}
+#nav-bar{
+  font-family: verdana;
+  font-size: 15px;
+  padding:0;
+}
+.nav-link{
+  color: #FF4500;
+}
+*{
+  background: black;
+  padding: 15px;
+}
+#serviços, #empresa, #orçamentos{
+  color: #FF4500;
+}
+.texto{
+  color: white;
+}
+#botao{
+  color: black;
+  background: #FF4500;
+  font-weight: bolder;
+}
+#orçamentos{
+  text-align: center;
+}
+#email{
+  background: white;
+}
+#video{
+  margin: 5px;
+  padding: 5px;
+}
+div{
+  margin: 15px;
+}
